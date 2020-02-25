@@ -1,0 +1,167 @@
+*{
+
+  margin:0;
+  
+  padding:0;
+  
+  }
+
+
+body
+{
+  background-image: url("image/moutain.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: whitesmoke;
+  
+}
+
+.container
+{
+  margin: auto;
+  
+}
+
+.navbar
+{
+  height: 70px;
+}
+
+
+/*---------------footer------------------*/
+footer
+{
+  width: 100%;
+}
+
+.page-footer
+{
+  background-color: #333333;
+  color: whitesmoke;
+  
+
+}
+
+a
+{
+ color: whitesmoke;
+}
+
+a:hover
+{
+  text-decoration-line: none;
+  color: #389059;
+}
+
+/*---------------login------------------*/
+.card-header , .card-footer
+{
+  background-color: #389059;
+  color: whitesmoke;
+  border-color: whitesmoke;
+  
+  
+  
+}
+
+.hover:hover
+{
+  text-decoration-line: none;
+  color: yellowgreen;
+}
+
+
+
+
+.card
+{
+  background-color: transparent;
+  border-color: whitesmoke;
+  color: whitesmoke;
+  margin: 10px;
+  padding: 0px;
+  
+}
+
+input
+{
+  background-color: transparent;
+  border-color: whitesmoke;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+
+input:focus
+{
+  background-color: #389059;
+  color: whitesmoke;
+}
+.btn
+{
+  border-radius: 0.50em;
+}
+/*---------------banière------------------*/
+
+.jumbotron
+{
+  background-color: #333333;
+  color: whitesmoke;
+  border-color: whitesmoke;
+}
+
+hr
+{
+  background-color: whitesmoke;
+}
+
+.bold
+{
+  font-weight: bold;
+}
+
+/*---------------cards------------------*/
+
+
+.avatar
+{
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 50% !important;
+  height: 50px;
+  width: 50px;
+}
+
+.list-group-item
+{
+  background-color: transparent;
+}
+
+.yellow-star
+{
+  color: yellow;
+}
+
+textarea
+{
+  width: auto;
+  border-radius: 0.25em;
+}
+
+textarea:hover
+{
+  border-color: yellowgreen;
+}
+
+.card-img-top
+{
+  height: 270px;
+}
+
+.list-group-item
+{
+  font-size: large;
+  font-weight: bold;
+}
